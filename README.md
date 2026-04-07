@@ -96,25 +96,8 @@ Final score (**private leaderboard**): **0.84 macro-F1**
 
 ---
 
-## Dataset
-
-The dataset comes from a Kaggle competition:
-
-👉 https://www.kaggle.com/competitions/2-el-1730-machine-learning-project-2026/
-
-It includes:
-
-* Training data (~296k samples) with labels
-* Test data (~120k samples) without labels
-* Multi-date satellite-derived features (geometric, temporal, spectral)
-
-Due to Kaggle restrictions, the dataset is **not included in this repository**.
-
-### How to access the data
-
-1. Create a Kaggle account
-2. Join the competition
-3. Download the dataset manually or via the Kaggle API
+## Data
+See data/README.md for details about data and generated files.
 
 
 ## How to Run
